@@ -1,7 +1,13 @@
 package com.example.kafkaexample;
 
 public class MessageRequest {
-    //messge
+    /*
+        test one
+        test two
+        test three
+        test four
+        test five
+     */
     private String message;
     //messge request
     public MessageRequest(String message) {
