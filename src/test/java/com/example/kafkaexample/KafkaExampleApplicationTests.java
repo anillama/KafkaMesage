@@ -8,6 +8,8 @@ class KafkaExampleApplicationTests {
 
     @Test
     void contextLoads() {
+        //write test here
+        //cases must meet the requirements
     }
 
 }
