@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.*;
 @RestController
 @RequestMapping("api/v1/messages")
 public class MessageController {
-
+    //top comment..
     private KafkaTemplate<String, String> kafkaTemplate;
     //added a comment here..
     public MessageController(KafkaTemplate<String, String> kafkaTemplate)
