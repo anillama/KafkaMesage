@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.*;
 public class MessageController {
 
     private KafkaTemplate<String, String> kafkaTemplate;
-
+    //added a comment here..
     public MessageController(KafkaTemplate<String, String> kafkaTemplate)
     {
         this.kafkaTemplate = kafkaTemplate;
