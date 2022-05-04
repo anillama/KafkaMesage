@@ -11,5 +11,7 @@ class KafkaExampleApplicationTests {
         //write test here
         //cases must meet the requirements
     }
+    //new comment here goes..
+    //adding another commit
 
 }
