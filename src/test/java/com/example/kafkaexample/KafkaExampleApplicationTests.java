@@ -10,5 +10,6 @@ class KafkaExampleApplicationTests {
     void contextLoads() {
     }
     //new comment here goes..
+    //adding another commit
 
 }

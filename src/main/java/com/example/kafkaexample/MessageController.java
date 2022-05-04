@@ -2,7 +2,7 @@ package com.example.kafkaexample;
 
 import org.springframework.kafka.core.KafkaTemplate;
 import org.springframework.web.bind.annotation.*;
-
+//rest controller
 @RestController
 @RequestMapping("api/v1/messages")
 public class MessageController {
