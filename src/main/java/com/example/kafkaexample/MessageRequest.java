@@ -8,6 +8,7 @@ public class MessageRequest {
         this.message = message;
     }
     //getMessage
+    //hello
     public String getMessage() {
         return message;
     }
