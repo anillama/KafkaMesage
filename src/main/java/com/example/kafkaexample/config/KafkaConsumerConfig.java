@@ -22,7 +22,6 @@ public class KafkaConsumerConfig {
     private String bootstrapServers;
     //added one more message on the kafka file
     //adding more comments
-    //to test
     public Map<String, Object> consumerConfig()
     {
         Map<String, Object> props = new HashMap<>();
