@@ -20,6 +20,9 @@ public class KafkaConsumerConfig {
 
     @Value("${spring.kafka.bootstrap-servers}")
     private String bootstrapServers;
+    //added one more message on the kafka file
+    //second message
+    //hello
     public Map<String, Object> consumerConfig()
     {
         Map<String, Object> props = new HashMap<>();
